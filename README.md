@@ -1,2 +1,2 @@
-# My First Git Repository
+# Updated Repository Title
 -e\nThis project dewmonstrates basic Git functionality
